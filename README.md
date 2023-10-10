@@ -1,10 +1,10 @@
-# README.md Generator 
+# Read 
 ## Description
-sdASD
+a simple 
 ## Deployed Application URL
-ASDASD
+
 ## Screenshot
-![alt-text](ASDDS)
+![alt-text](https://github.com/Boilermaker74/ReadGen/blob/main/README.md)
 ## Table of Contents
 * [Features](#features)
 * [Languages & Dependencies](#languagesanddependencies)
@@ -14,16 +14,16 @@ ASDASD
 * [Testing](#testing)
 * [Questions](#questions)
 ## Features
-werew
+1qwqwe
 ## Languages & Dependencies
-inquirer press-any-key
+qws
 ## How to Use This Application:
-werwer
+basic
 ## Licenses
-![Github license](https://img.shields.io/badge/license-MIT,APACHE2.0-blue.svg)
+![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Contributors
-asdacdsa
+tom
 ## Testing
-
+npm install
 ## Questions
-Please send your questions [here](mailto:bradm@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/werwerwer](https://github.com/werwerwer).
+Please send your questions [here](mailto:bradm@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/boilermaker74](https://github.com/boilermaker74).
