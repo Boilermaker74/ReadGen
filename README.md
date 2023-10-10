@@ -1,8 +1,8 @@
-# rew 
+# name 
 ## Description
-sdfsfddffsdf
+description
 ## Deployed Application URL
-sdsdfsdf
+url
 ## Table of Contents
 * [Installation](#installation)
 * [Features](#features)
@@ -14,21 +14,21 @@ sdsdfsdf
 * [Testing](#testing)
 * [Questions](#questions)
 ## Installation
-1. npm init 2. npm install 3. install inquirer
-![alt-text](sdfsdfsdf)
+steps for instaa
+![alt-text](relative path)
 ## Features
-can be reused very handy
+features
 ## Languages
-node.js
+lan and tech
 ## Dependencies
-inquirer
+dependance
 ## How to Use This Application:
-it's simple, start at the command line and type node index.js    then answer the questions
+how to use
 ## Licenses
 ![Github license](https://img.shields.io/badge/license-MIT,APACHE2.0,Boost1.0-blue.svg)
 ## Contributors
-asd
+contributer
 ## Testing
 N/A
 ## Questions
-Please send your questions [here](mailto:wally@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/boilermaker74](https://github.com/boilermaker74).
+Please send your questions [here](mailto:email@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/githubname](https://github.com/githubname).
