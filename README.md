@@ -8,7 +8,7 @@ sdsdfsdf
 * [Features](#features)
 * [Languages](#languages)
 * [Dependencies](#dependencies)
-* [How to Use This Application](#usage)
+* [How to Use This Application](#how to use this application)
 * [Licenses](#Licenses)
 * [Contributors](#contributors)
 * [Testing](#testing)
