@@ -1,12 +1,10 @@
-# ReadGen
-A questionnaire that generates a README.md file based on user's answers
-# read me generator 
+# README.md Generator 
 ## Description
-adsfasfdasfd
+sdASD
 ## Deployed Application URL
-qweqwe
+ASDASD
 ## Screenshot
-![alt-text](/wqdqwe)
+![alt-text](ASDDS)
 ## Table of Contents
 * [Features](#features)
 * [Languages & Dependencies](#languagesanddependencies)
@@ -16,17 +14,16 @@ qweqwe
 * [Testing](#testing)
 * [Questions](#questions)
 ## Features
-qweqwe
+werew
 ## Languages & Dependencies
-qwewqe
+inquirer press-any-key
 ## How to Use This Application:
-qweqweqwe
+werwer
 ## Licenses
-![Github license](https://img.shields.io/badge/license--blue.svg)
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+![Github license](https://img.shields.io/badge/license-MIT,APACHE2.0-blue.svg)
 ## Contributors
-qwewqeqwee
+asdacdsa
 ## Testing
-qwewqeqweqwe
+
 ## Questions
-Please send your questions [here](mailto:qweqwewe?subject=[GitHub]%20Dev%20Connect) or visit [github/qweqwe](https://github.com/qweqwe).
+Please send your questions [here](mailto:bradm@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/werwerwer](https://github.com/werwerwer).
