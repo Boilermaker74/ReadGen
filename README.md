@@ -4,7 +4,7 @@ ASDASD
 ## Deployed Application URL
 https://github.com/Boilermaker74/ReadGen/blob/main/README.md#questions
 ## Screenshot
-![alt-text](./assets/Screenshot (1).png)
+![alt-text](assets/Screenshot (1).png)
 ## Table of Contents
 * [Features](#features)
 * [Languages & Dependencies](#languagesanddependencies)
