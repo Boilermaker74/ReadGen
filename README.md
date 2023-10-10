@@ -1,8 +1,8 @@
-# name 
+# readme generator 
 ## Description
 description
 ## Deployed Application URL
-url
+https://github.com/Boilermaker74/ReadGen/tree/main/assets
 ## Table of Contents
 * [Installation](#installation)
 * [Features](#features)
@@ -10,25 +10,25 @@ url
 * [Dependencies](#dependencies)
 * [How to Use This Application](#how-to-use-this-application)
 * [Licenses](#Licenses)
-* [Contributors](#contributer)
+* [Contributors](#contributors)
 * [Testing](#testing)
 * [Questions](#questions)
 ## Installation
-steps for instaa
-![alt-text](relative path)
+installation
+![alt-text](https://github.com/Boilermaker74/ReadGen/blob/main/assets/Screenshot%20(1).png)
 ## Features
 features
 ## Languages
-lan and tech
+node.js
 ## Dependencies
-dependance
+inquirer
 ## How to Use This Application:
-how to use
+use
 ## Licenses
-![Github license](https://img.shields.io/badge/license-MIT,APACHE2.0,Boost1.0-blue.svg)
+![Github license](https://img.shields.io/badge/license-MIT,APACHE2.0-blue.svg)
 ## Contributors
-contributer
+john
 ## Testing
 N/A
 ## Questions
-Please send your questions [here](mailto:email@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/githubname](https://github.com/githubname).
+Please send your questions [here](mailto:brad@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/boilermaker74](https://github.com/boilermaker74).
