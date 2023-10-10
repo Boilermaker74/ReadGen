@@ -10,7 +10,7 @@ url
 * [Dependencies](#dependencies)
 * [How to Use This Application](#how-to-use-this-application)
 * [Licenses](#Licenses)
-* [Contributors](#contributors)
+* [Contributors](#contributer)
 * [Testing](#testing)
 * [Questions](#questions)
 ## Installation
