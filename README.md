@@ -1,10 +1,10 @@
-# Readme generator 
+# read me 
 ## Description
-makes me happy
+ASDASD
 ## Deployed Application URL
-ewwe
+https://github.com/Boilermaker74/ReadGen/blob/main/README.md#questions
 ## Screenshot
-![alt-text](e)
+![alt-text](C:\Users\Bradm\readme-generator-main\assets\Screenshot (1).png)
 ## Table of Contents
 * [Features](#features)
 * [Languages & Dependencies](#languagesanddependencies)
@@ -14,17 +14,16 @@ ewwe
 * [Testing](#testing)
 * [Questions](#questions)
 ## Features
-ewr
+it eats people
 ## Languages & Dependencies
-1. inquirer\n 2. nodejs\n 3. JavaScript
+1. Inquirer 2. 
 ## How to Use This Application:
-wer
+1. Nodejs 2. JavaScript 
 ## Licenses
 ![Github license](https://img.shields.io/badge/license-MIT,APACHE2.0,Boost1.0-blue.svg)
 ## Contributors
-dick harry
+N/A
 ## Testing
-n/a
+N/A
 ## Questions
-Please send your questions [here](mailto:Tom@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/Boilermaker74](https://github.com/Boilermaker74).
-
+Please send your questions [here](mailto:timmy@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/Boilermaker64](https://github.com/Boilermaker64).
