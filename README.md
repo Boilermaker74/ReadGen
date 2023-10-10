@@ -1,8 +1,8 @@
-# readme generator 
+# Readme Generator 
 ## Description
-description
+hello
 ## Deployed Application URL
-https://github.com/Boilermaker74/ReadGen/tree/main/assets
+qwe
 ## Table of Contents
 * [Installation](#installation)
 * [Features](#features)
@@ -14,21 +14,25 @@ https://github.com/Boilermaker74/ReadGen/tree/main/assets
 * [Testing](#testing)
 * [Questions](#questions)
 ## Installation
-installation
-![alt-text](https://github.com/Boilermaker74/ReadGen/blob/main/assets/Screenshot%20(1).png)
+1. check to make sure a 
+![alt-text](qwe)
 ## Features
-features
+It can be reused. It can be used on every repository
 ## Languages
 node.js
 ## Dependencies
-inquirer
+dsa
 ## How to Use This Application:
-use
+It is easy to use, just go to the directory, type node.js and then answer the questions.
 ## Licenses
 ![Github license](https://img.shields.io/badge/license-MIT,APACHE2.0-blue.svg)
 ## Contributors
-john
+john paul
 ## Testing
+N/A
+## Questions
+Please send your questions [here](mailto:Walter@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/Boilermaker74](https://github.com/Boilermaker74).
+
 N/A
 ## Questions
 Please send your questions [here](mailto:brad@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/boilermaker74](https://github.com/boilermaker74).
