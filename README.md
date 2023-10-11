@@ -20,7 +20,7 @@ ads
 asd
 ## Languages and Technologies Used
 ![Github license](https://img.shields.io/badge/Language-HTML,CSS-blue.svg)
-![Github license](https://img.shields.io/badge/Technology-NodeJS Mysql-blue.svg)
+![Github license](https://img.shields.io/badge/Technology-NodeJS,Mysql-blue.svg)
 ## Dependencies
 asd
 ## How to Use This Application:
