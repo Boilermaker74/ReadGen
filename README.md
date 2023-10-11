@@ -21,6 +21,7 @@ asd
 ## Languages
 HTML,CSS,JavaScript,JQuerry,NodeJs
 ![Github license](https://img.shields.io/badge/Language-HTML-blue.svg)
+![Github license](https://img.shields.io/badge/Language-CSS-blue.svg)
 ## Dependencies
 asd
 ## How to Use This Application:
