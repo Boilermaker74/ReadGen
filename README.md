@@ -1,8 +1,8 @@
-# Readme Generator 
+# Readme Genertor 
 ## Description
-This project 
+ads
 ## Deployed Application URL
-asdasd
+asd
 ## Table of Contents
 * [Installation](#installation)
 * [Features](#features)
@@ -15,20 +15,20 @@ asdasd
 * [Questions](#questions)
 ## Installation
 
-![alt-text](jkhkjhkj)
+![alt-text](asd)
 ## Features
-kljk
+asd
 ## Languages
-kljkj
+HTML,CSS,JavaScript,JQuerry,NodeJs
 ## Dependencies
-kl
+asd
 ## How to Use This Application:
-kjklj
+asd
 ## Licenses
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Contributors
-dqwd
+
 ## Testing
 N/A
 ## Questions
-Please send your questions [here](mailto:bradm@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/kjl](https://github.com/kjl).
+Please send your questions [here](mailto:bradm@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/asd](https://github.com/asd).
