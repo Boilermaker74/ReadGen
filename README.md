@@ -1,12 +1,12 @@
-# ads 
+# re 
 ## Description
-ADS
+asd
 ## Deployed Application URL
 asd
 ## Table of Contents
 * [Installation](#installation)
 * [Features](#features)
-* [Languages and Technologies](#languages)
+* [Languages and Technologies Used](#languages-and-technologies-used)
 * [Dependencies](#dependencies)
 * [How to Use This Application](#how-to-use-this-application)
 * [Licenses](#Licenses)
@@ -14,21 +14,22 @@ asd
 * [Testing](#testing)
 * [Questions](#questions)
 ## Installation
-asdf
-![alt-text](ads)
+ads
+![alt-text](asd)
 ## Features
-ff
-## Languages
-![Github license](https://img.shields.io/badge/Language-HTML,CSS,JavaScript,JQuerry,NodeJs-blue.svg)
+asd
+## Languages and Technologies Used
+![Github license](https://img.shields.io/badge/Language-HTML,CSS-blue.svg)
+![Github license](https://img.shields.io/badge/Technology-NodeJS Mysql-blue.svg)
 ## Dependencies
-fff
+asd
 ## How to Use This Application:
-f
+adsf
 ## Licenses
-![Github license](https://img.shields.io/badge/license-MIT,APACHE2.0,Boost1.0,MPL2.0,BSD2,BSD3,none-blue.svg)
+![Github license](https://img.shields.io/badge/license-MIT,APACHE2.0-blue.svg)
 ## Contributors
-sdf
+sad
 ## Testing
-N/A
+asd
 ## Questions
-Please send your questions [here](mailto:Bradm@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/df](https://github.com/df).
+Please send your questions [here](mailto:Bradm@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/asdf](https://github.com/asdf).
