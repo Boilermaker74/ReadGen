@@ -1,12 +1,12 @@
-# Readme Genertor 
+# asd 
 ## Description
-ads
+ASD
 ## Deployed Application URL
-asd
+SDA
 ## Table of Contents
 * [Installation](#installation)
 * [Features](#features)
-* [Languages](#languages)
+* [Languages and Technologies](#languages)
 * [Dependencies](#dependencies)
 * [How to Use This Application](#how-to-use-this-application)
 * [Licenses](#Licenses)
@@ -14,23 +14,21 @@ asd
 * [Testing](#testing)
 * [Questions](#questions)
 ## Installation
-
+ADSF
 ![alt-text](asd)
 ## Features
-asd
+ads
 ## Languages
-HTML,CSS,JavaScript,JQuerry,NodeJs
-![Github license](https://img.shields.io/badge/Language-HTML-blue.svg)
-![Github license](https://img.shields.io/badge/Language-CSS-blue.svg)
+![Github license](https://img.shields.io/badge/Language-HTML,CSS,JavaScript,JQuerry,NodeJs-blue.svg)
 ## Dependencies
-asd
+ADS
 ## How to Use This Application:
-asd
+ASD
 ## Licenses
-![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
+![Github license](https://img.shields.io/badge/license-MIT,APACHE2.0,Boost1.0,MPL2.0,BSD2,BSD3,none-blue.svg)
 ## Contributors
-
+S
 ## Testing
 N/A
 ## Questions
-Please send your questions [here](mailto:bradm@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/asd](https://github.com/asd).
+Please send your questions [here](mailto:Bradm@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/asd](https://github.com/asd).
