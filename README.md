@@ -1,8 +1,8 @@
-# weqr 
+# readme 
 ## Description
-wer
+this project will generate a README.md
 ## Deployed Application URL
-rwer
+
 ## Table of Contents
 * [Installation](#installation)
 * [Features](#features)
@@ -14,22 +14,22 @@ rwer
 * [Testing](#testing)
 * [Questions](#questions)
 ## Installation
-
-![alt-text](wer)
+qwe
+![alt-text]()
 ## Features
-dfhdfh
+asd
 ## Languages and Technologies Used
 ![Github license](https://img.shields.io/badge/Language-HTML,CSS-blue.svg)
-![Github license](https://img.shields.io/badge/Technology--blue.svg)
+![Github license](https://img.shields.io/badge/Technology-N/A-blue.svg)
 ## Dependencies
-gfxdh
+asd
 ## How to Use This Application:
-
+asd
 ## Licenses
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Contributors
-
+weq
 ## Testing
 N/A
 ## Questions
-Please send your questions [here](mailto:bradm@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/](https://github.com/).
+Please send your questions [here](mailto:BradM@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/asd](https://github.com/asd).
